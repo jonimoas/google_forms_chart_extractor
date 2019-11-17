@@ -1,0 +1,16 @@
+{
+  "name": "frequency_table_maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^3.4.0",
+    "fs-extra": "^8.1.0",
+    "xlsx-chart": "^0.3.8"
+  }
+}

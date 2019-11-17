@@ -9,6 +9,7 @@ height weight
 190 50
 120 50
 
+It should be noted that this exact format is used by Google Forms.
 you can change the filename in the first line of the script. The new charts will be
 created in the same folder as the script, one in each file, with the filename being
-the title
+the title.

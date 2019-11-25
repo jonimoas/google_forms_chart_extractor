@@ -1,16 +1,15 @@
 {
-  "name": "frequency_table_maker",
-  "version": "1.0.0",
-  "description": "",
+  "app_name": "frequency_table_chart_maker",
+  "author": "",
+  "dependencies": {
+    "exceljs": "^3.4.0",
+    "xlsx-chart": "^0.3.8"
+  },
+  "license": "ISC",
   "main": "index.js",
+  "name": "frequency_table_maker",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "exceljs": "^3.4.0",
-    "fs-extra": "^8.1.0",
-    "xlsx-chart": "^0.3.8"
-  }
+  "version": "1.0.0"
 }
